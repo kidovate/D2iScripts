@@ -647,3 +647,16 @@ blockquote p {
 
     .social-icons a { padding: 14px; font-size: 17px; }
 }
+.center { float: none !important; margin-left: auto !important; margin-right: auto !important; }
+.view_on {font-weight: bold !important; background: none !important}
+#selections{
+    float: none !important; margin-left: auto !important; margin-right: auto !important;
+}
+.fcbklist_item{
+    width: 280px !important;
+    height: 70px !important;
+}
+
+.selections li{
+    width: 150px !important;
+}

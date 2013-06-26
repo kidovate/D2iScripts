@@ -2,13 +2,19 @@
   "meteor": {},
   "dependencies": {
     "basePackages": {
-      "font-awesome": {}
+      "font-awesome": {},
+      "fcbklistselector": {}
     },
     "packages": {
       "font-awesome": {
         "git": "https://github.com/nate-strauser/meteor-font-awesome.git",
         "tag": "v3.2.0",
         "commit": "2cba6f907a2579cae2d399b522f9544c13d5e091"
+      },
+      "fcbklistselector": {
+        "git": "https://github.com/kidovate/meteor-fcbklistselector.git",
+        "tag": "v0.1.4",
+        "commit": "9d037bbfb24e1bbbf0716b61ef87d3d875c62474"
       }
     }
   }
