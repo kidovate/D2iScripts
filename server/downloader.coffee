@@ -9,7 +9,7 @@ fs = Meteor.require "fs"
 util = Meteor.require "util"
 Fiber = Meteor.require "fibers"
 
-downloadPrepend = "----------\n-Downloaded from Quantum's repository:\n-d2iscripts.herokuapp.com\n----------\n"
+downloadPrepend = "----------\n-- Downloaded from Quantum's repository:\n-- d2iscripts.herokuapp.com\n----------\n"
 
 
 AWS.config.update({'accessKeyId': 'AKIAJPKNNKG2ZEYDTR3A', 'secretAccessKey' : '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', region: "us-east-1"});
