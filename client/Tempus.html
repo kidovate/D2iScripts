@@ -17,12 +17,9 @@
                     <p class="app-description">
                         <span>Easily choose and download your packages for Dota 2 Intel.</span><br>
                         <span>Save your package lists to your account on this site.</span><br>
-                        <span>Download minified and bundled versions of your favorite scripts.</span>
+                        <span>Download minified and bundled versions of your favorite scripts.</span><br>
+                        <span>Created by Quantum on the d2i forums.</span>
                     </p>
-
-                    <div class="app-buttons">
-                        <a href="#" class="header-btn">Start now</a>
-                    </div>
                 </div>
             </div> <!-- /span7 -->
 
@@ -38,31 +35,7 @@
     <div class="container">
         <div class="row-fluid">
 
-            <div class="span6">
-                <h3 class="title">Any Questions or Feedback</h3>
-                <p>We are here to answer any kind of question donec aliquet mattis libero, ac porttitor leo ultricies nec. Integer aliquam aliquam tempor. Maecenas congue adipiscing cursus. Pellentesque quis est at justo dignissim iaculis. Vestibulum egestas nibh eu tortor ultrices venenatis.</p>
-                <p class="address"><i class="icon-building"></i> 413 Water St. New York, NY 10002 <span class="pull-right"><i class="icon-phone"></i> 555-555-55</span></p>
-                <div class="social-icons">
-                    <a href="http://demo.shymarkets.com/wrapbootstrap/tempus/model-1/#"><i class="icon-twitter"></i></a>
-                    <a href="http://demo.shymarkets.com/wrapbootstrap/tempus/model-1/#"><i class="icon-facebook"></i></a>
-                    <a href="http://demo.shymarkets.com/wrapbootstrap/tempus/model-1/#"><i class="icon-google-plus"></i></a>
-                    <a href="http://demo.shymarkets.com/wrapbootstrap/tempus/model-1/#"><i class="icon-linkedin"></i></a>
-                    <a href="http://demo.shymarkets.com/wrapbootstrap/tempus/model-1/#"><i class="icon-github"></i></a>
-                </div>
-                <form class="form-inline subscription-form text-center">
-                    <input type="email" class="input-large" name="subscriber" placeholder="Email">
-                    <button type="submit" class="custom-btn"><i class="icon-envelope"></i> Subscribe</button>
-                </form>
-            </div>
-
-            <div class="span6">
-                <form class="contact-form">
-                    <input class="input-block-level" type="text" name="name" placeholder="your name" required="">
-                    <input class="input-block-level" type="email" name="email" placeholder="your email" required="">
-                    <textarea class="input-block-level" name="message" placeholder="your message" rows="10" required=""></textarea>
-                    <button type="submit" class="custom-btn">Send</button>
-                </form>
-            </div>
+            {{>packageStorage}}
 
         </div> <!-- /row-fluid -->
     </div> <!-- /container -->
@@ -72,8 +45,8 @@
 <div class="footer">
     <div class="container">
         <div class="row-fluid">
-            <h3 class="footer-title pull-left"><a href="http://demo.shymarkets.com/wrapbootstrap/tempus/model-1/#"><i class="icon-time"></i> Tempus</a></h3>
-            <p class="pull-right footer-copyright">© All Right Reserved.</p>
+            <h3 class="footer-title pull-left"><a href="mailto: kidovate@gmail.com"><i class="icon-xing"></i> Quantum</a></h3>
+            <p class="pull-right footer-copyright">©2013 All Rights Reserved.</p>
         </div> <!-- /row-fluid -->
     </div> <!-- /container -->
 </div> <!-- /footer -->
@@ -142,4 +115,29 @@
         <h3 class="title" style="font-weight:bold">Generating file...</h3>
         <p>We're preparing your files for download...</p>
     </div><!-- /span4 -->
+</template>
+<template name="packageStorage">
+    <div class="span6">
+        <h3 class="title">Store Your Selected Packages</h3>
+        <p>You can store your packagesets so you can access or modify them later. Simply login using the button at the top right of your window.</p>
+        <div class="social-icons" onsubmit="return false;" action="" target="">
+            <a href="" onclick="return false;" id="openSetBtn"><i class="icon-folder-open"></i></a>
+            <a href="" onclick="return false;" id="removeSetBtn"><i class="icon-remove-circle"></i></a>
+            <!--<a href="#"><i class="icon-save"></i></a>-->
+        </div>
+        <form onsubmit="return false;" class="form-inline subscription-form text-center" id="createNewSetForm" action="" target="">
+            <input type="text" class="input-large" name="name" placeholder="Enter a name" id="newSetNameField">
+            <button type="submit" class="custom-btn" id="newSetSubmit"><i class="icon-plus"></i> Create</button>
+        </form>
+    </div>
+
+    <div class="span6">
+        <form class="contact-form">
+            <select name="listSets" size=15 style="width: 500px;height:300px" id="listSets">
+                {{#each sets}}
+                <option value="{{_id}}">{{name}} ({{count}} scripts)</option>
+                {{/each}}
+            </select>
+        </form>
+    </div>
 </template>

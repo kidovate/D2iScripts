@@ -44,8 +44,6 @@ Meteor.methods
     error = null
     scriptsDir = null
     tempFolder = null
-    downloadedCount = 0
-    expectedCount = 0
     fileName = null
     result = ""
     zip = new (Meteor.require "node-zip")()
@@ -61,26 +59,26 @@ Meteor.methods
         scriptsDir = dirPath+"/scripts/"
         fs.mkdirSync scriptsDir
         Fiber(->
-          for id, i in packageIds
+          for id in packageIds
             pkg = Packages.findOne(active:true, _id: id)
             continue if !pkg?
             pkgfid = pkg.filename
             console.log "   --> getting "+pkgfid
-            expectedCount++
-            s3.getObject {Bucket: "d2iscripts", Key: pkgfid}, (err, data)->
-              if err?
-                error = new Meteor.Error 404, "Error getting script: "+pkg.name+" - ", err
-                console.log " xx> failed to get, "+err
-                done()
-                return
-              if data?
-                fileName = pkg.name.replace(" ", "").replace(/[^\w\s]/gi, "")+".lua"
-                #fs.writeFile scriptsDir+"/"+pkg.name.replace(" ", "").replace(/[^\w\s]/gi, "")+".lua", data.Body
-                zip.file(fileName, downloadPrepend+data.Body.toString('utf-8'))
-                console.log "   ✓✓✓ "+pkg.name
-                downloadedCount++
-                if downloadedCount is expectedCount
-                  done()
+            Meteor.sync (done2)->
+              s3.getObject {Bucket: "d2iscripts", Key: pkgfid}, (err, data)->
+                if err?
+                  error = new Meteor.Error 404, "Error getting script: "+pkg.name+" - ", err
+                  console.log " xx> failed to get, "+err
+                  done2()
+                  return
+                if data?
+                  fileName = pkg.name.replace(" ", "").replace(/[^\w\s]/gi, "")+".lua"
+                  #fs.writeFile scriptsDir+"/"+pkg.name.replace(" ", "").replace(/[^\w\s]/gi, "")+".lua", data.Body
+                  zip.file(fileName, downloadPrepend+data.Body.toString('utf-8'))
+                  console.log "   ✓✓✓ "+pkg.name
+                  done2()
+                done2()
+          done()
         ).run()
 
     Meteor.sync (done)->

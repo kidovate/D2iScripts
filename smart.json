@@ -3,6 +3,7 @@
     "font-awesome": {},
     "fcbklistselector": {},
     "pnotify": {},
-    "npm": {}
+    "npm": {},
+    "collection-hooks": {}
   }
 }
