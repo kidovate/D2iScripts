@@ -72,7 +72,7 @@ Meteor.methods
                   done2()
                   return
                 if data?
-                  fileName = pkg.name.replace(" ", "").replace(/[^\w\s]/gi, "")+".lua"
+                  fileName = pkg.name.split(' ').join('').replace(/[^\w\s]/gi, "")+".lua"
                   #fs.writeFile scriptsDir+"/"+pkg.name.replace(" ", "").replace(/[^\w\s]/gi, "")+".lua", data.Body
                   zip.file(fileName, downloadPrepend+data.Body.toString('utf-8'))
                   console.log "   ✓✓✓ "+pkg.name
