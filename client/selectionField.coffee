@@ -5,3 +5,5 @@ Template.choosePackages.rendered = ->
   $.fcbkListSelection("#fcbklist")
 Template.choosePackages.packages = ->
   Packages.find()
+Template.choosePackages.packageCount = ->
+  Packages.find().count()

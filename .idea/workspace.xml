@@ -4,7 +4,7 @@
     <list default="true" id="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" name="Default" comment="" />
     <ignored path="d2iscripts.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Tempus.html" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372308249240" ignored="false" />
+    <file path="/Tempus.html" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372313934521" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372308647193" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap-responsive.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372306941651" ignored="false" />
     <file path="/loginButtons.less" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372261254751" ignored="false" />
@@ -22,7 +22,7 @@
     <file path="$USER_HOME$/Dropbox/meteor/meteor-fcbkselect/README.md" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372263311605" ignored="false" />
     <file path="/README.md" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372263311605" ignored="false" />
     <file path="$USER_HOME$/Dropbox/meteor/meteor-fcbkselect/smart.json" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372263816170" ignored="false" />
-    <file path="/selectionField.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372312241636" ignored="false" />
+    <file path="/selectionField.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372313912505" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372312065095" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/fcbklistselector/lib/fcbklistselection.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372306941651" ignored="false" />
     <file path="/availablePackages.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372300229209" ignored="false" />
@@ -87,10 +87,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Tempus.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Tempus.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/Tempus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="111" selection-start="156" selection-end="156" vertical-scroll-proportion="-0.6122449">
+            <state line="69" column="59" selection-start="3126" selection-end="3126" vertical-scroll-proportion="0.5252918">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#script#0;n#body#0;n#!!top" expanded="true" />
@@ -149,16 +149,16 @@
       <file leaf-file-name="selectionField.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/selectionField.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="14" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0">
+            <state line="8" column="25" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="packageStorage.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="packageStorage.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/packageStorage.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="12" selection-start="2288" selection-end="2288" vertical-scroll-proportion="0.6188748">
+            <state line="80" column="12" selection-start="2288" selection-end="2288" vertical-scroll-proportion="-10.04">
               <folding />
             </state>
           </provider>
@@ -197,10 +197,10 @@
         <option value="$PROJECT_DIR$/server/publish.coffee" />
         <option value="$PROJECT_DIR$/model/availablePackages.coffee" />
         <option value="$PROJECT_DIR$/server/setStorage.coffee" />
-        <option value="$PROJECT_DIR$/client/Tempus.html" />
-        <option value="$PROJECT_DIR$/client/selectionField.coffee" />
         <option value="$PROJECT_DIR$/server/downloader.coffee" />
         <option value="$PROJECT_DIR$/client/packageStorage.coffee" />
+        <option value="$PROJECT_DIR$/client/selectionField.coffee" />
+        <option value="$PROJECT_DIR$/client/Tempus.html" />
       </list>
     </option>
   </component>
@@ -491,25 +491,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/Tempus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="111" selection-start="156" selection-end="156" vertical-scroll-proportion="-0.6122449">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#script#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#template#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#template#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#template#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#template#2;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#template#3;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#template#3;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#select#0;n#form#0;n#div#1;n#template#4;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/downloadManager.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="4" selection-start="281" selection-end="415" vertical-scroll-proportion="0.0">
@@ -535,13 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/selectionField.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="14" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/downloader.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="23" selection-start="2659" selection-end="2659" vertical-scroll-proportion="-2.36">
@@ -551,8 +525,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/packageStorage.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="12" selection-start="2288" selection-end="2288" vertical-scroll-proportion="0.6188748">
+        <state line="80" column="12" selection-start="2288" selection-end="2288" vertical-scroll-proportion="-10.04">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/selectionField.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="25" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/Tempus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="59" selection-start="3126" selection-end="3126" vertical-scroll-proportion="0.5252918">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#script#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#template#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#template#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#template#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#template#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#template#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#template#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#form#0;n#div#1;n#template#4;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
