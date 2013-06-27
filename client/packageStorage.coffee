@@ -70,7 +70,7 @@ getSelectedSet = ()->
     $.pnotify
       title: "None Selected"
       type: "error"
-      text: "You need to select a set from the box before you can delete it."
+      text: "You need to select a set from the box first."
   else
     selSet = Sets.findOne({_id: selectedId})
     if !selSet?

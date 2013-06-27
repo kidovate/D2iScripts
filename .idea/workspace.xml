@@ -121,15 +121,17 @@
         <entry file="file://$PROJECT_DIR$/server/setStorage.coffee">
           <provider selected="true" editor-type-id="text-editor">
             <state line="5" column="42" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1372308174000" expanded="true" signature="20:476" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="downloader.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="downloader.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/downloader.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="59" selection-start="3151" selection-end="3151" vertical-scroll-proportion="0.5">
+            <state line="68" column="23" selection-start="2659" selection-end="2659" vertical-scroll-proportion="-2.36">
               <folding />
             </state>
           </provider>
@@ -153,10 +155,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="packageStorage.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="packageStorage.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/packageStorage.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="1" selection-start="2327" selection-end="2327" vertical-scroll-proportion="0.0">
+            <state line="80" column="12" selection-start="2288" selection-end="2288" vertical-scroll-proportion="0.6188748">
               <folding />
             </state>
           </provider>
@@ -166,7 +168,9 @@
         <entry file="file://$PROJECT_DIR$/model/availablePackages.coffee">
           <provider selected="true" editor-type-id="text-editor">
             <state line="13" column="13" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
-              <folding />
+              <folding>
+                <marker date="1372304096000" expanded="true" signature="311:390" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -194,9 +198,9 @@
         <option value="$PROJECT_DIR$/model/availablePackages.coffee" />
         <option value="$PROJECT_DIR$/server/setStorage.coffee" />
         <option value="$PROJECT_DIR$/client/Tempus.html" />
-        <option value="$PROJECT_DIR$/client/packageStorage.coffee" />
         <option value="$PROJECT_DIR$/client/selectionField.coffee" />
         <option value="$PROJECT_DIR$/server/downloader.coffee" />
+        <option value="$PROJECT_DIR$/client/packageStorage.coffee" />
       </list>
     </option>
   </component>
@@ -516,21 +520,18 @@
     <entry file="file://$PROJECT_DIR$/model/availablePackages.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="13" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/packageStorage.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="1" selection-start="2327" selection-end="2327" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1372304096000" expanded="true" signature="311:390" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/setStorage.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="42" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1372308174000" expanded="true" signature="20:476" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -543,7 +544,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/downloader.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="59" selection-start="3151" selection-end="3151" vertical-scroll-proportion="0.5">
+        <state line="68" column="23" selection-start="2659" selection-end="2659" vertical-scroll-proportion="-2.36">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/packageStorage.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="12" selection-start="2288" selection-end="2288" vertical-scroll-proportion="0.6188748">
           <folding />
         </state>
       </provider>
