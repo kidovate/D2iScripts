@@ -8,6 +8,7 @@ temp = Meteor.require "temp"
 fs = Meteor.require "fs"
 util = Meteor.require "util"
 Fiber = Meteor.require "fibers"
+luamin = Meteor.require 'luamin'
 
 downloadPrepend = "----------\n-- Downloaded from Quantum's repository:\n-- d2iscripts.herokuapp.com\n----------\n"
 
@@ -74,7 +75,9 @@ Meteor.methods
                 if data?
                   fileName = pkg.name.split(' ').join('').replace(/[^\w\s]/gi, "")+".lua"
                   #fs.writeFile scriptsDir+"/"+pkg.name.replace(" ", "").replace(/[^\w\s]/gi, "")+".lua", data.Body
-                  zip.file(fileName, downloadPrepend+data.Body.toString('utf-8'))
+                  luaCode = data.Body.toString('utf-8')
+                  minified = luamin.minify(luaCode);
+                  zip.file(fileName, downloadPrepend+minified)
                   console.log "   ✓✓✓ "+pkg.name
                   done2()
                 done2()
