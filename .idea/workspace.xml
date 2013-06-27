@@ -22,7 +22,7 @@
     <file path="$USER_HOME$/Dropbox/meteor/meteor-fcbkselect/README.md" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372263311605" ignored="false" />
     <file path="/README.md" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372263311605" ignored="false" />
     <file path="$USER_HOME$/Dropbox/meteor/meteor-fcbkselect/smart.json" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372263816170" ignored="false" />
-    <file path="/selectionField.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372298665056" ignored="false" />
+    <file path="/selectionField.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372312241636" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372312065095" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/fcbklistselector/lib/fcbklistselection.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372306941651" ignored="false" />
     <file path="/availablePackages.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372300229209" ignored="false" />
@@ -126,10 +126,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="downloader.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="downloader.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/downloader.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="413" selection-end="413" vertical-scroll-proportion="0.36245352">
+            <state line="13" column="0" selection-start="413" selection-end="413" vertical-scroll-proportion="-7.8">
               <folding />
             </state>
           </provider>
@@ -144,10 +144,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selectionField.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="selectionField.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/selectionField.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="34" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
+            <state line="3" column="14" selection-start="136" selection-end="136" vertical-scroll-proportion="0.078125">
               <folding />
             </state>
           </provider>
@@ -156,7 +156,7 @@
       <file leaf-file-name="packageStorage.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/packageStorage.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="21" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0">
+            <state line="82" column="1" selection-start="2327" selection-end="2327" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -190,13 +190,13 @@
         <option value="$PROJECT_DIR$/smart.json" />
         <option value="$PROJECT_DIR$/packages.json" />
         <option value="$PROJECT_DIR$/client/downloadManager.coffee" />
-        <option value="$PROJECT_DIR$/client/selectionField.coffee" />
         <option value="$PROJECT_DIR$/server/publish.coffee" />
         <option value="$PROJECT_DIR$/model/availablePackages.coffee" />
         <option value="$PROJECT_DIR$/server/setStorage.coffee" />
-        <option value="$PROJECT_DIR$/client/packageStorage.coffee" />
         <option value="$PROJECT_DIR$/client/Tempus.html" />
         <option value="$PROJECT_DIR$/server/downloader.coffee" />
+        <option value="$PROJECT_DIR$/client/packageStorage.coffee" />
+        <option value="$PROJECT_DIR$/client/selectionField.coffee" />
       </list>
     </option>
   </component>
@@ -487,34 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/availablePackages.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/downloadManager.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="281" selection-end="415" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/packageStorage.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="21" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/selectionField.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="34" selection-start="156" selection-end="156" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/Tempus.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="111" selection-start="156" selection-end="156" vertical-scroll-proportion="-0.6122449">
@@ -534,6 +506,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server/downloader.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="413" selection-end="413" vertical-scroll-proportion="-7.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/downloadManager.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="4" selection-start="281" selection-end="415" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/availablePackages.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/packageStorage.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="1" selection-start="2327" selection-end="2327" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/setStorage.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="42" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0">
@@ -541,9 +541,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/downloader.coffee">
+    <entry file="file://$PROJECT_DIR$/client/selectionField.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="413" selection-end="413" vertical-scroll-proportion="0.36245352">
+        <state line="3" column="14" selection-start="136" selection-end="136" vertical-scroll-proportion="0.078125">
           <folding />
         </state>
       </provider>

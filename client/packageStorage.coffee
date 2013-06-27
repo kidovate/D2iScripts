@@ -80,7 +80,7 @@ getSelectedSet = ()->
         text: "We couldn't find that set for some reason..."
       return
     return selSet
-selectNone = ()->
+@selectNone = ()->
   $("#fcbklist li").each (index, el)->
     if $(this).attr('addedid')
       #$(this).removeAttr('addedid')
