@@ -4,7 +4,7 @@
 <body>
 
 <!-- top right login area-->
-<div style="text-align:center;position:fixed;right: 15px; color: white; top: 0px; min-width:80px;height:30px;-webkit-border-radius: 0px 0px 5px 5px;-moz-border-radius: 0px 0px 90px 90px;border-radius: 0px 0px 5px 5px;border:1px solid #FFFFFF;background-color:#000000;-webkit-box-shadow: #B3B3B3 4px 4px 4px;-moz-box-shadow: #B3B3B3 4px 4px 4px; box-shadow: #B3B3B3 4px 4px 4px;">{{loginButtons align="right"}}</div>
+<div style="text-align:center;position:fixed;right: 15px; color: white; top: 0px; min-width:80px;height:30px;-webkit-border-radius: 0px 0px 5px 5px;-moz-border-radius: 0px 0px 90px 90px;border-radius: 0px 0px 5px 5px;border:1px solid #FFFFFF;background-color:#000000;">{{loginButtons align="right"}}</div>
 
 <div class="header">
     <div class="container">
@@ -97,7 +97,7 @@
                 <div class="span12 center">
                     <ul id="fcbklist">
                         {{#each packages}}
-                        <li>
+                        <li id="{{_id}}">
                             <strong>{{name}}</strong> by {{author}}<br />
                             <span class="fcbkitem_text">{{description}}</span>
                             <input type="hidden" name="fcbklist_value[]" value="{{_id}}" />
@@ -114,49 +114,32 @@
 <template name="downloadPackages">
 
     <div class="join" style="padding-top: 25px">
-        <div class="container">
+        <div class="container" style="height: 370px">
             <div class="row-fluid">
-                <div class="span10 text-center center">
-                    <h2 style="font-weight: bold; color: white">Download Your Packages</h2>
-                </div>
-                <div class="span6">
-
-                    <form>
-                        <fieldset>
-                            <legend>Already Registered?</legend>
-                            <span class="help-block">Enter your email and password to login to your account.</span>
-                            <input class="input-block-level" type="email" placeholder="Your email">
-                            <input class="input-block-level" type="text" placeholder="Your password">
-
-                            <button type="submit" class="custom-btn pull-right">Sign In</button>
-
-                            <label class="checkbox">
-                                <input type="checkbox"> Remember me on this computer
-                            </label>
-
-                        </fieldset>
-                    </form>
-
-                </div>
-
-
-                <div class="span6">
-                    <form>
-                        <fieldset>
-                            <legend>Sign up with us</legend>
-                            <span class="help-block">Don't you have an account? It is super easy to sign up with us. Fill the following form.</span>
-                            <input class="input-block-level" type="text" placeholder="Your full name">
-                            <input class="input-block-level" type="email" placeholder="Your email">
-                            <input class="input-block-level" type="email" placeholder="Confirm your email">
-                            <input class="input-block-level" type="password" placeholder="Choose password">
-                            <input class="input-block-level" type="password" placeholder="Conform your password">
-
-                            <button type="submit" class="custom-btn pull-right">Sign Up</button>
-                        </fieldset>
-                    </form>
-                </div>
-
+                {{#if downloading}}
+                <div class="downloadingView">{{>downloadingView}}</div>
+                {{else}}
+                <div class="downloadButton">{{>downloadButton}}</div>
+                {{/if}}
             </div> <!-- /row-fluid -->
         </div> <!-- /container -->
     </div><!-- /join -->
+</template>
+<template name="downloadButton">
+    <div class="span4 text-center grid-feature center" style="color: white; border: deepskyblue; border-radius: 5px">
+        <div class="shape lightblue">
+            <i class="icon-download"></i>
+        </div>
+        <h3 class="title" style="font-weight:bold">download now</h3>
+        <p>Click to start your package download!</p>
+    </div><!-- /span4 -->
+</template>
+<template name="downloadingView">
+    <div class="span4 text-center grid-feature center" style="color: white; border: deepskyblue; border-radius: 5px">
+        <div class="shape-spin pink">
+            <i class="icon-repeat"></i>
+        </div>
+        <h3 class="title" style="font-weight:bold">Generating file...</h3>
+        <p>We're preparing your files for download...</p>
+    </div><!-- /span4 -->
 </template>

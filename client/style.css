@@ -245,15 +245,15 @@ input::-webkit-input-placeholder,textarea::-webkit-input-placeholder{ font-size:
     transform: rotate(360deg) scale(1.08);
 }
 
-.shape.darkblue {
+.darkblue {
     background: url(/img/circle-1.png);
 }
 
-.shape.pink {
+.pink {
     background: url(/img/circle-2.png);
 }
 
-.shape.lightblue {
+.lightblue {
     background: url(/img/circle-3.png);
 }
 
@@ -659,4 +659,23 @@ blockquote p {
 
 .selections li{
     width: 150px !important;
+}
+
+.shape-spin {
+    width: 161px;
+    height: 160px;
+    margin: 0 auto;
+    -webkit-animation: rotate 3s infinite linear; /* Safari 4+ */
+    -moz-animation:    rotate 3s infinite linear; /* Fx 5+ */
+    -o-animation:      rotate 3s infinite linear; /* Opera 12+ */
+    animation:         rotate 3s infinite linear;
+}
+@-webkit-keyframes rotate {
+    from {-webkit-transform: rotate(0deg);}
+    to {-webkit-transform: rotate(360deg);}
+}
+
+@-moz-keyframes rotate {
+    from {-moz-transform: rotate(0deg);}
+    to {-moz-transform: rotate(360deg);}
 }

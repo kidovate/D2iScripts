@@ -4,17 +4,17 @@
     <list default="true" id="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" name="Default" comment="" />
     <ignored path="d2iscripts.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Tempus.html" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372276980263" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372265269531" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap-responsive.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372276990330" ignored="false" />
+    <file path="/Tempus.html" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372279292450" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372279620243" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap-responsive.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372278331587" ignored="false" />
     <file path="/loginButtons.less" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372261254751" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/style.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372265269531" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/style.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372279282588" ignored="false" />
     <file path="/loginButtonFixer.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372260945417" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/font-awesome/lib/font-awesome/css/font-awesome.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372265269531" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/loginButtons.less.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372265269531" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap-override.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372265269531" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/font-awesome/path-override.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372265269531" ignored="false" />
-    <file path="/style.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372276740337" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/font-awesome/lib/font-awesome/css/font-awesome.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372278767115" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/loginButtons.less.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372278193973" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/bootstrap/css/bootstrap-override.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372278767115" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/font-awesome/path-override.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372278331587" ignored="false" />
+    <file path="/style.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372278838299" ignored="false" />
     <file path="$USER_HOME$/Dropbox/meteor/meteor-fbckselect/package.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372263197525" ignored="false" />
     <file path="$USER_HOME$/Dropbox/meteor/meteor-fcbkselect/package.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372263281799" ignored="false" />
     <file path="/package.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372263225498" ignored="false" />
@@ -23,8 +23,8 @@
     <file path="/README.md" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372263311605" ignored="false" />
     <file path="$USER_HOME$/Dropbox/meteor/meteor-fcbkselect/smart.json" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372263816170" ignored="false" />
     <file path="/selectionField.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372276252149" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372274354634" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/fcbklistselector/lib/fcbklistselection.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372265269531" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372290580095" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/fcbklistselector/lib/fcbklistselection.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372279328837" ignored="false" />
     <file path="/availablePackages.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372275315635" ignored="false" />
     <file path="/publish.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372275092826" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/livedata/livedata_server.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372275647382" ignored="false" />
@@ -32,6 +32,22 @@
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/underscore/underscore.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372275977890" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/meteor/server_environment.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372275647382" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/meteor/client_environment.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372275647382" ignored="false" />
+    <file path="/downloadManager.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372280198842" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/templating/deftemplate.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372279457423" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/downloadManager.coffee.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372278012823" ignored="false" />
+    <file path="/config.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372279800556" ignored="false" />
+    <file path="/downloader.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372291508678" ignored="false" />
+    <file path="/packages.json" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372285851207" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/npm/index.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372283583723" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/minimongo/minimongo.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372291455243" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/minimongo/minimongo.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372290580095" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/livedata/sockjs-0.3.4.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372289440806" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/spark/patch.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372289440807" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/handlebars/parse.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372289824118" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/accounts-base/accounts_common.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372289792923" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/accounts-base/accounts_common.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372289824118" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/service-configuration/service_configuration_common.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372289824118" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/service-configuration/service_configuration_common.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372289792923" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,26 +67,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Tempus.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/Tempus.html">
+      <file leaf-file-name="downloader.coffee" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/downloader.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="73" selection-start="5499" selection-end="5499" vertical-scroll-proportion="0.270428">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#script#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#template#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#1;n#!!top" expanded="true" />
-              </folding>
+            <state line="102" column="22" selection-start="4154" selection-end="4154" vertical-scroll-proportion="0.7058824">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="publish.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/publish.coffee">
+      <file leaf-file-name="downloadManager.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/downloadManager.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="31" column="21" selection-start="1193" selection-end="1193" vertical-scroll-proportion="-5.32">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="packages.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/packages.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="1" selection-start="72" selection-end="72" vertical-scroll-proportion="-2.5">
               <folding />
             </state>
           </provider>
@@ -85,47 +103,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selectionField.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/selectionField.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="24" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loginButtons.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/loginButtons.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="436" column="20" selection-start="12908" selection-end="12908" vertical-scroll-proportion="-7.72">
-              <folding>
-                <element signature="e#3752#4743#2" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="649" column="96" selection-start="15305" selection-end="15305" vertical-scroll-proportion="-22.72">
-              <folding>
-                <element signature="e#10101#10240#1" expanded="true" />
-                <element signature="e#12117#12256#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -136,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/client/page.html" />
         <option value="$PROJECT_DIR$/client/loginButtonFixer.coffee" />
         <option value="$PROJECT_DIR$/client/loginButtons.less" />
         <option value="$PROJECT_DIR$/model/publish.coffee" />
@@ -146,13 +122,19 @@
         <option value="$PROJECT_DIR$/client/model.coffee" />
         <option value="$PROJECT_DIR$/client/selectionField.coffee" />
         <option value="$PROJECT_DIR$/client/style.css" />
+        <option value="$PROJECT_DIR$/client/config.coffee" />
+        <option value="$PROJECT_DIR$/client/downloadManager.coffee" />
+        <option value="$USER_HOME$/Dropbox/meteor/vrelease/meteorproj/server/stealerdownload.coffee" />
+        <option value="$PROJECT_DIR$/smart.json" />
         <option value="$PROJECT_DIR$/client/Tempus.html" />
+        <option value="$PROJECT_DIR$/packages.json" />
+        <option value="$PROJECT_DIR$/server/downloader.coffee" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="86" />
+    <option name="x" value="55" />
     <option name="y" value="22" />
     <option name="width" value="1260" />
     <option name="height" value="747" />
@@ -282,7 +264,7 @@
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -299,26 +281,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="86" y="22" width="1260" height="747" extended-state="0" />
+    <frame x="55" y="22" width="1260" height="747" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25370675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -382,7 +364,21 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/script.js">
+    <entry file="file://$PROJECT_DIR$/client/loginButtons.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="436" column="20" selection-start="12908" selection-end="12908" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="649" column="96" selection-start="15305" selection-end="15305" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/publish.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -391,16 +387,81 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/loginButtons.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="436" column="20" selection-start="12908" selection-end="12908" vertical-scroll-proportion="-7.72">
+        <state line="436" column="20" selection-start="12908" selection-end="12908" vertical-scroll-proportion="-15.32">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="670" column="48" selection-start="15899" selection-end="15899" vertical-scroll-proportion="-11.92">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/selectionField.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="24" selection-start="62" selection-end="62" vertical-scroll-proportion="-0.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/config.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="34" selection-start="69" selection-end="69" vertical-scroll-proportion="-0.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/meteor/vrelease/meteorproj/server/stealerapi.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.6333938">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/meteor/vrelease/meteorproj/client/views/dash.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/meteor/vrelease/meteorproj/server/stealerdownload.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="32" selection-end="182" vertical-scroll-proportion="0.08166969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/smart.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="23" selection-start="41" selection-end="41" vertical-scroll-proportion="-1.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/Tempus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="28" selection-start="89" selection-end="89" vertical-scroll-proportion="-3.125">
           <folding>
-            <element signature="e#3752#4743#2" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#script#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#template#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#template#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#template#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#template#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#template#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#template#3;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/publish.coffee">
+    <entry file="file://$PROJECT_DIR$/packages.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="4" column="1" selection-start="72" selection-end="72" vertical-scroll-proportion="-2.5">
           <folding />
         </state>
       </provider>
@@ -412,34 +473,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/selectionField.coffee">
+    <entry file="file://$PROJECT_DIR$/client/downloadManager.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="24" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0">
+        <state line="31" column="21" selection-start="1193" selection-end="1193" vertical-scroll-proportion="-5.32">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/style.css">
+    <entry file="file://$PROJECT_DIR$/server/downloader.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="649" column="96" selection-start="15305" selection-end="15305" vertical-scroll-proportion="-22.72">
-          <folding>
-            <element signature="e#10101#10240#1" expanded="true" />
-            <element signature="e#12117#12256#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/Tempus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="73" selection-start="5499" selection-end="5499" vertical-scroll-proportion="0.270428">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#script#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#template#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#1;n#!!top" expanded="true" />
-          </folding>
+        <state line="102" column="22" selection-start="4154" selection-end="4154" vertical-scroll-proportion="0.7058824">
+          <folding />
         </state>
       </provider>
     </entry>

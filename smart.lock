@@ -3,7 +3,9 @@
   "dependencies": {
     "basePackages": {
       "font-awesome": {},
-      "fcbklistselector": {}
+      "fcbklistselector": {},
+      "pnotify": {},
+      "npm": {}
     },
     "packages": {
       "font-awesome": {
@@ -15,6 +17,16 @@
         "git": "https://github.com/kidovate/meteor-fcbklistselector.git",
         "tag": "v0.1.4",
         "commit": "9d037bbfb24e1bbbf0716b61ef87d3d875c62474"
+      },
+      "pnotify": {
+        "git": "https://github.com/kidovate/meteor-pnotify.git",
+        "tag": "v0.1.0",
+        "commit": "1799e7a19759f8f5e8f2debd240024ee36f42fbc"
+      },
+      "npm": {
+        "git": "https://github.com/arunoda/meteor-npm.git",
+        "tag": "v0.1.4",
+        "commit": "68ab2b952ab21a5bbba879b37be9385ec8ff6d63"
       }
     }
   }

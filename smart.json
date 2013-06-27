@@ -1,6 +1,8 @@
 {
   "packages": {
     "font-awesome": {},
-    "fcbklistselector": {}
+    "fcbklistselector": {},
+    "pnotify": {},
+    "npm": {}
   }
 }
