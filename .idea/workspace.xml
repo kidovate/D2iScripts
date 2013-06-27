@@ -23,7 +23,7 @@
     <file path="/README.md" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372263311605" ignored="false" />
     <file path="$USER_HOME$/Dropbox/meteor/meteor-fcbkselect/smart.json" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372263816170" ignored="false" />
     <file path="/selectionField.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372298665056" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372309897074" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372310515806" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/fcbklistselector/lib/fcbklistselection.css" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372306941651" ignored="false" />
     <file path="/availablePackages.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372300229209" ignored="false" />
     <file path="/publish.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372300077913" ignored="false" />
@@ -33,13 +33,13 @@
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/meteor/server_environment.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372304102027" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/meteor/client_environment.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372304102027" ignored="false" />
     <file path="/downloadManager.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372292460617" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/templating/deftemplate.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372309897074" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/templating/deftemplate.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372310515806" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/downloadManager.coffee.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372278012823" ignored="false" />
     <file path="/config.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372279800556" ignored="false" />
     <file path="/downloader.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372307160666" ignored="false" />
     <file path="/packages.json" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372285851207" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/npm/index.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372283583723" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/minimongo/minimongo.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372309897074" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/minimongo/minimongo.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372310515806" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/minimongo/minimongo.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372292496707" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/livedata/sockjs-0.3.4.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372292229874" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/spark/patch.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372292496707" ignored="false" />
@@ -56,11 +56,11 @@
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/past/past.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372304102028" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/livedata/livedata_connection.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372304102027" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/mongo-livedata/collection.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372308427208" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/mongo-livedata/collection.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372309897074" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/mongo-livedata/collection.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372310515806" ignored="false" />
     <file path="/setStorage.coffee" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372308168051" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/accounts-password/password_server.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372308427208" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/srp/srp.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372308148774" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/mongo-livedata/mongo_driver.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372309897074" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/mongo-livedata/mongo_driver.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372310515806" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/packageStorage.coffee.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372308647193" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/deps/deps.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372308427208" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/accounts-base/accounts_server.js" changelist="18d95e10-cd1b-4321-b9d3-6bea44be5ad6" time="1372308427208" ignored="false" />
@@ -90,7 +90,7 @@
       <file leaf-file-name="Tempus.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/Tempus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="107" selection-start="152" selection-end="152" vertical-scroll-proportion="0.05836576">
+            <state line="2" column="111" selection-start="156" selection-end="156" vertical-scroll-proportion="0.05836576">
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#script#0;n#body#0;n#!!top" expanded="true" />
@@ -531,7 +531,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/Tempus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="107" selection-start="152" selection-end="152" vertical-scroll-proportion="0.05836576">
+        <state line="2" column="111" selection-start="156" selection-end="156" vertical-scroll-proportion="0.05836576">
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#script#0;n#body#0;n#!!top" expanded="true" />
