@@ -7,8 +7,9 @@ Template.downloadingView.rendered = ->
 Template.downloadPackages.events
   "click .shape": ->
     selectedArr = []
-    $("#fcbklist .liselected").each (index, el)->
-      selectedArr.push $(this).attr("id")
+    $("#fcbklist li").each (index, el)->
+      if $(this).attr('addedid')
+        selectedArr.push $(this).attr("id")
     #Meteor.call "downloadPackages",
     console.log "Selected packages: "+selectedArr
     if selectedArr.length is 0
@@ -38,6 +39,7 @@ Template.downloadPackages.events
               title: "Download Started"
               type: "success"
               text: "Your download has begun."
+            window.open result
           $(".downloadingView").fadeOut ()->
             Session.set "downloading", false
 Meteor.startup ->

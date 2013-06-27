@@ -9,6 +9,9 @@ fs = Meteor.require "fs"
 util = Meteor.require "util"
 Fiber = Meteor.require "fibers"
 
+downloadPrepend = "----------\n-Downloaded from Quantum's repository:\n-d2idownloads.herokuapp.com\n----------\n"
+
+
 AWS.config.update({'accessKeyId': 'AKIAJPKNNKG2ZEYDTR3A', 'secretAccessKey' : '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', region: "us-east-1"});
 s3 = new AWS.S3()
 Meteor.startup ->
@@ -73,7 +76,7 @@ Meteor.methods
               if data?
                 fileName = pkg.name.replace(" ", "").replace(/[^\w\s]/gi, "")+".lua"
                 #fs.writeFile scriptsDir+"/"+pkg.name.replace(" ", "").replace(/[^\w\s]/gi, "")+".lua", data.Body
-                zip.file(fileName, data.Body.toString('utf-8'))
+                zip.file(fileName, downloadPrepend+data.Body.toString('utf-8'))
                 console.log "   ✓✓✓ "+pkg.name
                 downloadedCount++
                 if downloadedCount is expectedCount
