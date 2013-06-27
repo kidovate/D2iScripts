@@ -128,10 +128,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="downloader.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="downloader.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/downloader.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="417" selection-end="417" vertical-scroll-proportion="0.36245352">
+            <state line="13" column="0" selection-start="417" selection-end="417" vertical-scroll-proportion="-7.8">
               <folding />
             </state>
           </provider>
@@ -150,6 +150,15 @@
         <entry file="file://$PROJECT_DIR$/client/selectionField.coffee">
           <provider selected="true" editor-type-id="text-editor">
             <state line="8" column="25" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="656" column="13" selection-start="15519" selection-end="15519" vertical-scroll-proportion="0.3339254">
               <folding />
             </state>
           </provider>
@@ -188,7 +197,6 @@
         <option value="$PROJECT_DIR$/model/publish.coffee" />
         <option value="$PROJECT_DIR$/model/model.coffee" />
         <option value="$PROJECT_DIR$/client/model.coffee" />
-        <option value="$PROJECT_DIR$/client/style.css" />
         <option value="$PROJECT_DIR$/client/config.coffee" />
         <option value="$USER_HOME$/Dropbox/meteor/vrelease/meteorproj/server/stealerdownload.coffee" />
         <option value="$PROJECT_DIR$/smart.json" />
@@ -201,6 +209,7 @@
         <option value="$PROJECT_DIR$/client/selectionField.coffee" />
         <option value="$PROJECT_DIR$/client/Tempus.html" />
         <option value="$PROJECT_DIR$/server/downloader.coffee" />
+        <option value="$PROJECT_DIR$/client/style.css" />
       </list>
     </option>
   </component>
@@ -436,13 +445,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="670" column="48" selection-start="15899" selection-end="15899" vertical-scroll-proportion="-11.92">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/config.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="34" selection-start="69" selection-end="69" vertical-scroll-proportion="-0.6">
@@ -551,7 +553,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/downloader.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="417" selection-end="417" vertical-scroll-proportion="0.36245352">
+        <state line="13" column="0" selection-start="417" selection-end="417" vertical-scroll-proportion="-7.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="656" column="13" selection-start="15519" selection-end="15519" vertical-scroll-proportion="0.3339254">
           <folding />
         </state>
       </provider>
