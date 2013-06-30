@@ -101,13 +101,22 @@
     </div><!-- /join -->
 </template>
 <template name="downloadButton">
-    <div class="span4 text-center grid-feature center" style="color: white; border: deepskyblue; border-radius: 5px">
-        <div class="shape lightblue">
-            <i class="icon-download"></i>
-        </div>
-        <h3 class="title" style="font-weight:bold">download now</h3>
-        <p>Click to start your package download!</p>
-    </div><!-- /span4 -->
+      <div class="span3"/>
+        <div class="span4 text-center grid-feature" style="color: white; border: deepskyblue; border-radius: 5px">
+            <div class="shape lightblue" id="downloadMinified">
+                <i class="icon-download"></i>
+            </div>
+            <h3 class="title" style="font-weight:bold">download minified</h3>
+            <p>Click to download minified and optimized code!</p>
+        </div><!-- /span4 -->
+        <div class="span4 text-center grid-feature" style="color: white; border: deepskyblue; border-radius: 5px">
+            <div class="shape darkblue" id="downloadSource">
+                <i class="icon-download"></i>
+            </div>
+            <h3 class="title" style="font-weight:bold">download source</h3>
+            <p>Click to download the full editable and readable source code!</p>
+        </div><!-- /span4 -->
+    <div class="span1"/>
 </template>
 <template name="downloadingView">
     <div class="span4 text-center grid-feature center" style="color: white; border: deepskyblue; border-radius: 5px">

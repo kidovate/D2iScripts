@@ -39,7 +39,7 @@ Meteor.startup ->
           console.log "Bucket created: "+EJSON.stringify data if data?
 
 Meteor.methods
-  startDownload: (packageIds)->
+  startDownload: (packageIds, minify)->
     check packageIds, [String]
     randId = Random.id()
     error = null
@@ -76,8 +76,8 @@ Meteor.methods
                   fileName = pkg.name.split(' ').join('').replace(/[^\w\s]/gi, "")+".lua"
                   #fs.writeFile scriptsDir+"/"+pkg.name.replace(" ", "").replace(/[^\w\s]/gi, "")+".lua", data.Body
                   luaCode = data.Body.toString('utf-8')
-                  minified = luamin.minify(luaCode);
-                  zip.file(fileName, downloadPrepend+minified)
+                  luaCode = luamin.minify(luaCode) if minify
+                  zip.file(fileName, downloadPrepend+luaCode)
                   console.log "   ✓✓✓ "+pkg.name
                   done2()
                 done2()
