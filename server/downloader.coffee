@@ -13,7 +13,8 @@ luamin = Meteor.require 'luamin'
 downloadPrepend = "----------\n-- Downloaded from Quantum's repository:\n-- d2iscripts.herokuapp.com\n----------\n"
 
 
-AWS.config.update({'accessKeyId': 'AKIAJPKNNKG2ZEYDTR3A', 'secretAccessKey' : 'dJ/9OfyjIR8hdD5RdwJ5rV5HmsnxyPsQzCTfJhI8', region: "us-east-1"});
+AWS.config.update({'accessKeyId': '[redacted]', 'secretAccessKey' : '[redacted]', region: "us-east-1"})
+
 s3 = new AWS.S3()
 Meteor.startup ->
   s3.listBuckets {}, (err, data)->
